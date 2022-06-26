@@ -77,7 +77,7 @@ io.on('connection', (socket) => {
       'message',
       formatMessage(
         botName,
-        'Welcome to JustTalk! This is a chatting platform developed by Nikhil Sourav!'
+        'Welcome to JustTalk! This is a chatting platform developed by Mohit Goyal!'
       )
     );
 
